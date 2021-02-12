@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+
+    //Headings
+    <string name="heading_one">Quick &amp; Easy Payments</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+
+</resources>
